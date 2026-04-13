@@ -1,18 +1,9 @@
-# <a href="[https://www.linkedin.com/in/DanielFigal/">Daniel Figal</a>'s Project Portfolio 🔐
+# <a href="[https://www.linkedin.com/in/DanielFigal/">Daniel Figal</a>'s Project Portfolio 
 
 I’m a developer focused on building clean, responsive, and user-friendly websites. I enjoy turning ideas into functional, polished web experiences and continuously improving my skills across the stack.
 I’m especially interested in front-end design, performance, and creating intuitive interfaces—but I also like understanding how things work behind the scenes.
 Alongside web development, I have a growing interest in cybersecurity and enjoy learning about how systems can be secured and tested.
 
-
-## ⚠️ Vulnerability Management Projects
-
-- **[Vulnerability Management Program Implementation]()**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)]()**
-
-## 🚨 Threat Hunting and Security Operations
-
-- **[Threat Hunting Scenario (Tor Browser Usage)]()**
 
 <hr/>
 

@@ -1,6 +1,8 @@
-# <a href="[https://www.linkedin.com/in/DanielFigal/">Daniel Figal</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="[https://www.linkedin.com/in/DanielFigal/">Daniel Figal</a>'s Project Project Portfolio 🔐
 
-I’m deeply interested in cybersecurity and enjoy solving real-world security problems through practical, hands-on work. Whether it’s analyzing vulnerabilities or strengthening defensive strategies, these projects reflect my commitment to learning and improving within the constantly changing field of cybersecurity. Please, feel free to explore them and see how I approach building stronger and more effective security practices.
+I’m a developer focused on building clean, responsive, and user-friendly websites. I enjoy turning ideas into functional, polished web experiences and continuously improving my skills across the stack.
+I’m especially interested in front-end design, performance, and creating intuitive interfaces—but I also like understanding how things work behind the scenes.
+Alongside web development, I have a growing interest in cybersecurity and enjoy learning about how systems can be secured and tested.
 
 
 ## ⚠️ Vulnerability Management Projects
